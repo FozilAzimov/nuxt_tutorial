@@ -1,0 +1,1 @@
+console.log('Heyyy bu Plugins JS file.');
